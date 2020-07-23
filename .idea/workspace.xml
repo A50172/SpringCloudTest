@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e475ebd6-b088-44ac-b91a-9959fa1135d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/EurekaClient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/EurekaClientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/mapper/ScoreMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/mapper/ScoreMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/mapper/StudentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/mapper/StudentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/service/ScoreService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/service/ScoreServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/service/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/com/cmsr/sicp/custom/EurekaClientApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/com/cmsr/sicp/custom/controller/StudentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/com/cmsr/sicp/custom/mapper/ScoreMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/com/cmsr/sicp/custom/mapper/ScoreMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/com/cmsr/sicp/custom/mapper/StudentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/com/cmsr/sicp/custom/mapper/StudentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/com/cmsr/sicp/custom/service/ScoreService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/com/cmsr/sicp/custom/service/ScoreServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/com/cmsr/sicp/custom/service/StudentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/com/cmsr/sicp/custom/service/StudentServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaTest/EurekaTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaTest/src/main/java/com/cmsr/sicp/custom/EurekaServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaTest/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaTest/target/classes/META-INF/EurekaTest.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaTest/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EurekaTest/target/classes/com/cmsr/sicp/custom/EurekaServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloudTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentScoreApi/StudentScoreApi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentScoreApi/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentScoreApi/src/main/java/com/cmsr/sicp/custom/bean/Score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentScoreApi/src/main/java/com/cmsr/sicp/custom/bean/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentScoreApi/src/main/java/com/cmsr/sicp/custom/vo/StudentVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentScoreApi/target/classes/com/cmsr/sicp/custom/bean/Score.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentScoreApi/target/classes/com/cmsr/sicp/custom/bean/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentScoreApi/target/classes/com/cmsr/sicp/custom/vo/StudentVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Cangku\1706c_repository" />
+        <option name="mavenHome" value="D:/2019/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\Cangku\wabyTemp.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ewbava0J2LEOrToJidPseXVzeJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspeace\idea\SpringCloudTest\EurekaClient\src\main\resources" />
+      <recent name="D:\Workspeace\idea\SpringCloudTest\EurekaClient\src\main\java\com\cmsr\sicp\custom\mapper" />
+      <recent name="D:\Workspeace\idea\SpringCloudTest\StudentScoreApi\src\main\java\com\cmsr\sicp\custom\bean" />
+      <recent name="D:\Workspeace\idea\SpringCloudTest\EurekaTest\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaClientApplication">
+    <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="EurekaClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cmsr.sicp.custom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cmsr.sicp.custom.EurekaClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="EurekaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cmsr.sicp.custom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cmsr.sicp.custom.EurekaServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="EurekaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cmsr.sicp.custom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cmsr.sicp.custom.EurekaServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaClientApplication" />
+        <item itemvalue="Spring Boot.EurekaServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e475ebd6-b088-44ac-b91a-9959fa1135d0" name="Default Changelist" comment="" />
+      <created>1595235669782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595235669782</updated>
+      <workItem from="1595235671418" duration="1317000" />
+      <workItem from="1595237055146" duration="373000" />
+      <workItem from="1595237437989" duration="2765000" />
+      <workItem from="1595240271915" duration="2076000" />
+      <workItem from="1595249297078" duration="661000" />
+      <workItem from="1595250014049" duration="4636000" />
+      <workItem from="1595291019906" duration="9638000" />
+      <workItem from="1595322275914" duration="3984000" />
+      <workItem from="1595399373783" duration="117000" />
+      <workItem from="1595465638424" duration="1027000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1595292422393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1595292422393" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1595323565714">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595323565714" />
+    <state x="1283" y="196" key="FileChooserDialogImpl" timestamp="1595466602949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1283" y="196" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595466602949" />
+    <state width="1877" height="234" key="GridCell.Tab.0.bottom" timestamp="1595399493448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595399493448" />
+    <state width="1877" height="234" key="GridCell.Tab.0.center" timestamp="1595399493447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="234" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595399493447" />
+    <state width="1877" height="234" key="GridCell.Tab.0.left" timestamp="1595399493447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="234" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595399493447" />
+    <state width="1877" height="234" key="GridCell.Tab.0.right" timestamp="1595399493447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="234" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595399493447" />
+    <state width="1877" height="234" key="GridCell.Tab.1.bottom" timestamp="1595399493448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="234" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595399493448" />
+    <state width="1877" height="234" key="GridCell.Tab.1.center" timestamp="1595399493448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="234" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595399493448" />
+    <state width="1877" height="234" key="GridCell.Tab.1.left" timestamp="1595399493448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="234" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595399493448" />
+    <state width="1877" height="234" key="GridCell.Tab.1.right" timestamp="1595399493448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="234" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595399493448" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1595236544717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595236544717" />
+    <state x="922" y="180" key="SettingsEditor" timestamp="1595466572005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="180" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595466572005" />
+    <state x="334" y="214" key="new project wizard" timestamp="1595313588903">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1595313588903" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1595238389158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595238389158" />
+  </component>
+</project>
