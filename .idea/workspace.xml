@@ -2,59 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e475ebd6-b088-44ac-b91a-9959fa1135d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/EurekaClient.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/EurekaClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/mapper/ScoreMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/mapper/ScoreMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/mapper/StudentMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/mapper/StudentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/service/ScoreService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/service/ScoreServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/service/StudentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/com/cmsr/sicp/custom/EurekaClientApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/com/cmsr/sicp/custom/controller/StudentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/com/cmsr/sicp/custom/mapper/ScoreMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/com/cmsr/sicp/custom/mapper/ScoreMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/com/cmsr/sicp/custom/mapper/StudentMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/com/cmsr/sicp/custom/mapper/StudentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/com/cmsr/sicp/custom/service/ScoreService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/com/cmsr/sicp/custom/service/ScoreServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/com/cmsr/sicp/custom/service/StudentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/target/classes/com/cmsr/sicp/custom/service/StudentServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaTest/EurekaTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaTest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaTest/src/main/java/com/cmsr/sicp/custom/EurekaServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaTest/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaTest/target/classes/META-INF/EurekaTest.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaTest/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaTest/target/classes/com/cmsr/sicp/custom/EurekaServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloudTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentScoreApi/StudentScoreApi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentScoreApi/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentScoreApi/src/main/java/com/cmsr/sicp/custom/bean/Score.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentScoreApi/src/main/java/com/cmsr/sicp/custom/bean/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentScoreApi/src/main/java/com/cmsr/sicp/custom/vo/StudentVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentScoreApi/target/classes/com/cmsr/sicp/custom/bean/Score.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentScoreApi/target/classes/com/cmsr/sicp/custom/bean/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentScoreApi/target/classes/com/cmsr/sicp/custom/vo/StudentVo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SpringCloudTest" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -66,6 +22,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Workspeace\idea\SpringCloudTest\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -89,6 +52,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -183,14 +147,30 @@
       <workItem from="1595291019906" duration="9638000" />
       <workItem from="1595322275914" duration="3984000" />
       <workItem from="1595399373783" duration="117000" />
-      <workItem from="1595465638424" duration="1027000" />
+      <workItem from="1595465638424" duration="3422000" />
     </task>
+    <task id="LOCAL-00001" summary="SpringCloudTest">
+      <created>1595466758724</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595466758724</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SpringCloudTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpringCloudTest" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Notifications" timestamp="1595469678779">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1595469678779" />
     <state x="552" y="178" key="#Project_Structure" timestamp="1595292422393">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -199,6 +179,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595323565714" />
+    <state x="986" y="113" key="CommitChangelistDialog2" timestamp="1595466753472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="986" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595466753472" />
     <state x="1283" y="196" key="FileChooserDialogImpl" timestamp="1595466602949">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -243,6 +227,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="180" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595466572005" />
+    <state x="1032" y="245" key="Vcs.Push.Dialog.v2" timestamp="1595469611796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595469611796" />
     <state x="334" y="214" key="new project wizard" timestamp="1595313588903">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
