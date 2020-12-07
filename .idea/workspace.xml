@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e475ebd6-b088-44ac-b91a-9959fa1135d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -148,6 +149,7 @@
       <workItem from="1595322275914" duration="3984000" />
       <workItem from="1595399373783" duration="117000" />
       <workItem from="1595465638424" duration="3422000" />
+      <workItem from="1607311386592" duration="523000" />
     </task>
     <task id="LOCAL-00001" summary="SpringCloudTest">
       <created>1595466758724</created>
@@ -167,77 +169,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="SpringCloudTest" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Notifications" timestamp="1595469678779">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1607311416125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1595469678779" />
-    <state x="552" y="178" key="#Project_Structure" timestamp="1595292422393">
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607311416125" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607311940385">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1595292422393" />
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1595323565714">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607311940385" />
+    <state x="656" y="311" key="git4idea.merge.GitMergeDialog" timestamp="1607311868063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595323565714" />
-    <state x="986" y="113" key="CommitChangelistDialog2" timestamp="1595466753472">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="986" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595466753472" />
-    <state x="1283" y="196" key="FileChooserDialogImpl" timestamp="1595466602949">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1283" y="196" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595466602949" />
-    <state width="1877" height="234" key="GridCell.Tab.0.bottom" timestamp="1595399493448">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595399493448" />
-    <state width="1877" height="234" key="GridCell.Tab.0.center" timestamp="1595399493447">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="234" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595399493447" />
-    <state width="1877" height="234" key="GridCell.Tab.0.left" timestamp="1595399493447">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="234" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595399493447" />
-    <state width="1877" height="234" key="GridCell.Tab.0.right" timestamp="1595399493447">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="234" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595399493447" />
-    <state width="1877" height="234" key="GridCell.Tab.1.bottom" timestamp="1595399493448">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="234" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595399493448" />
-    <state width="1877" height="234" key="GridCell.Tab.1.center" timestamp="1595399493448">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="234" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595399493448" />
-    <state width="1877" height="234" key="GridCell.Tab.1.left" timestamp="1595399493448">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="234" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595399493448" />
-    <state width="1877" height="234" key="GridCell.Tab.1.right" timestamp="1595399493448">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="234" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595399493448" />
-    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1595236544717">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595236544717" />
-    <state x="922" y="180" key="SettingsEditor" timestamp="1595466572005">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="922" y="180" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595466572005" />
-    <state x="1032" y="245" key="Vcs.Push.Dialog.v2" timestamp="1595469611796">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1032" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595469611796" />
-    <state x="334" y="214" key="new project wizard" timestamp="1595313588903">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="334" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1595313588903" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1595238389158">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595238389158" />
+    <state x="656" y="311" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607311868063" />
   </component>
 </project>
