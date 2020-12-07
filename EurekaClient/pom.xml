@@ -11,12 +11,6 @@
 
     <artifactId>EurekaClient</artifactId>
     <dependencies>
-
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
-        </dependency>
-
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
@@ -53,17 +47,13 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-openfeign</artifactId>
         </dependency>
-        <dependency>
-            <groupId>com.cmsr.sicp.custom</groupId>
-            <artifactId>StudentScoreApi</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
         </dependencies>
     <build>
         <resources>
             <resource>
                 <directory>src/main/java</directory>
                 <includes>
+
                     <include>**/*.xml</include>
                 </includes>
             </resource>
