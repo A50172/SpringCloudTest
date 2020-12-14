@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e475ebd6-b088-44ac-b91a-9959fa1135d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/controller/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/controller/HelloWorld2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/controller/JavaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/controller/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/controller/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="e475ebd6-b088-44ac-b91a-9959fa1135d0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,6 +199,7 @@
       <workItem from="1607331209324" duration="2834000" />
       <workItem from="1607567716269" duration="2454000" />
       <workItem from="1607666214690" duration="10270000" />
+      <workItem from="1607927273274" duration="281000" />
     </task>
     <task id="LOCAL-00001" summary="SpringCloudTest">
       <created>1595466758724</created>
