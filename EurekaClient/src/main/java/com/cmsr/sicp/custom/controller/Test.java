@@ -20,6 +20,7 @@ public class Test {
 
     @RequestMapping(value = "/test",method = RequestMethod.GET)
     public String test(){
+        System.out.println("健康敬爱的尽快哈嘎都是几号回家大盛魁建行卡vjkvhdaJHKVAVHJKS");
         return "hello world!!!";
     }
 }
