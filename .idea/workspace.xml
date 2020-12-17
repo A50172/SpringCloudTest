@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e475ebd6-b088-44ac-b91a-9959fa1135d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/cmsr/sicp/custom/controller/SHA1Controller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -205,6 +204,7 @@
       <workItem from="1607927273274" duration="899000" />
       <workItem from="1607936104077" duration="25000" />
       <workItem from="1607942055951" duration="105000" />
+      <workItem from="1608171331796" duration="482000" />
     </task>
     <task id="LOCAL-00001" summary="SpringCloudTest">
       <created>1595466758724</created>
